@@ -1,0 +1,119 @@
+*{padding: 0;
+margin: 0;
+}
+.main{
+    width: 100%;
+  
+}
+.container{ width:75%;
+
+margin: 0 auto;}
+   
+
+.top{height: 85px;
+background-color:#415d9e;
+}
+.logo{
+    float: left;
+color: white;
+font-size: 60px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+padding: 10px;
+}
+.text-field{height: 70px;
+width: 170px;
+padding: 15p 5px;
+}
+.form{
+    float: right;
+}
+.text-field{
+width: 170px;
+height: 70px;
+float: left;
+padding: 15px 5px;
+}
+label{ color: white;
+font-size: 14px;
+}
+.text-field>input{
+    width: 150px;
+    height: 20px;
+    border: 1px solid;
+    margin: 3px 0;
+}
+.Forgot{
+    color: #8FB4DB;
+    font-size: 14px;
+}
+.top input[ type="submit"]{
+    background:#4267B2;
+    margin:38px 0px;
+    width: 50px;
+    height: 22px;
+    border:1px solid black;
+    color: white;
+ }
+ .rightbody{
+    clear: both;
+    width: 40%;
+    float: right;}
+ 
+ h1{
+font-size: 22px;
+margin: 20px 0;
+color: #0E385F;
+
+ }
+ .leftbody{
+    width: 40%;
+    float: left;
+ }
+ .main-heading{
+    font-size: 40px;
+    font-weight: bolder;
+ }
+ .sub{
+    font-size: 20px;
+    margin: 10px 5px;
+ }
+ .rightbody>input.half{
+    width: 48%;
+    height: 38px;
+    border-radius: 5px;
+    padding: 0 10px;
+    border: 1px solid #BDC7D8;
+    font-size: 17px;
+    margin: 5px 0 5px 0;
+    box-sizing: border-box;
+ }
+ .rightbody>input.full{
+    width: 98%;
+    height: 38px;
+    border-radius: 5px;
+    padding: 0 5px;
+    border: 1px solid #BDC7D8;
+    font-size: 18px;
+    margin: 10px 5px;
+    box-sizing: border-box;
+ }
+ .rightbody select{
+width: 60px;
+height: 35px;
+ }
+ .gender{
+    font-size: 20px;
+ }
+.para{
+   font-size: 12px;
+}
+.rightbody input[type="submit"]{
+   width: 180px;
+   height: 40px;
+   border-radius: 5px;
+ background-color: #64A651;
+   color: white;
+   font-size: 18px;
+   border: 1px solid #3B6E22;
+   margin: 10px 0;
+}
